@@ -11,5 +11,5 @@ export class ClasesComponent implements OnInit {
 
   ngOnInit(): void {
   }
-
+  
 }
