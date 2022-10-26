@@ -20,6 +20,7 @@ body{
 }
 .contenedor .form .form-header .form-title span{
     color: #fff;
+    font-family: "Cormorant Garamond", serif;
 }
 .contenedor .form{
     background: rgba(0, 0, 0, .6);

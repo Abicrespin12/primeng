@@ -41,7 +41,7 @@ h1 {
     font-family: "Cormorant Garamond", serif;
 }
 p {
-    font-family: 'Lato', sans-serif;
+    font-family: "Cormorant Garamond", serif;
     font-weight: 300;
     text-align: center;
     font-size: 18px;
@@ -61,7 +61,7 @@ button {
     color: #fff;
     border-radius: 5px;
     padding: 10px 25px;
-    font-family: 'Lato', sans-serif;
+    font-family: "Cormorant Garamond", serif;
     font-weight: 500;
     background: transparent;
     cursor: pointer;
@@ -342,4 +342,7 @@ h1{
     text-align: center;
     margin-bottom: 20px;
     font-size: 2.5rem;
+}
+h2{
+    font-family: "Cormorant Garamond", serif;
 }
